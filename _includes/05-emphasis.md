@@ -4,3 +4,4 @@ _Very Funny_
 __Very Intelligent__
 ***Did I say Funny***
 ___Is really Very Funny___
+___ **Very Funny**, *and very intelligent*___
